@@ -6,6 +6,9 @@
 
 The project aims to analyze road accident data to identify trends and insights related to accidents and casualties. The analysis focused on key performance indicators measuring accident severity, vehicle type, road type and other factors. The primary goal is to help transportation authorities, law enforcement agencies and stakeholders improve traffic safety and reduce the number of casualties resulting from road accidents.
 
+#### Dataset : 
+https://www.kaggle.com/datasets/richeeee/accident-data/data
+
 **Activities Carried Out**
 - Obtained the dataset.
 - Identified stakeholders and their specific requirements related to the KPIs.
