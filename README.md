@@ -53,3 +53,19 @@ These insights provide a comprehensive understanding of the road accident landsc
 #### Project Conclusion:
 
 This project successfully analyzed UK road accident data and provided valuable insights into accidents and casualty trends. The visualizations and charts created in Power BI will assist transportation authorities and law enforcement agencies in making informed decisions to improve road safety. By focusing on high-risk areas, accident severity, and other key factors, stakeholders can implement targeted interventions to reduce casualties caused by road accidents.
+
+
+### Dashboard:
+
+##### Page 1
+
+
+![Dashboard Page 2](https://github.com/Archanakokate/PRODIGY_DS_04/assets/115995897/2d4fae4b-71fb-49ff-97fc-4ac16a95d51d)
+
+
+
+##### Page 2
+
+
+
+![Dashboard Page 2](https://github.com/Archanakokate/PRODIGY_DS_04/assets/115995897/b23811dc-0810-40a6-89f5-f8264c44abee)
