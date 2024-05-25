@@ -1,5 +1,4 @@
-### PRODIGY Internship - Data Science
-#### Task 4
+
 ## UK Road Accident Analysis(2021-22) in Power BI
 
 #### Project Overview
